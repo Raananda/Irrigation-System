@@ -2,7 +2,7 @@
 
 - Control 4 valves
 - Weekdays or cyclic irrigation programs, 3 progarms each valve
-- Using rain sensor to cancel irrigation with raining
+- Using rain sensor to cancel irrigation due to raining
 - External RTC module
 
 
